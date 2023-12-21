@@ -1,0 +1,13 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuCreateNote"
+        android:title="@string/menu_create_note"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menuDeleteNote"
+        android:title="@string/menu_delete_note"
+        app:showAsAction="always"/>
+</menu>
